@@ -1,0 +1,23 @@
+name: Les Vues
+favicon: null
+layout_spectrum: 0.32177792536094785
+typography_spectrum: 0.2013369237538427
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.4734418906737119
+  lightness: 0.9676485219970345
+  saturation: 0.6480688110459596
+  rhythmicContrast: 0.6976809615734965
+purpose: []
